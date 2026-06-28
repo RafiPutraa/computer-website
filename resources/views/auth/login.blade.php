@@ -16,8 +16,7 @@
                 <!-- Bagian Kiri -->
                 <div class="row contentfrom my-4-mx-5 h-100">
                     <div class="col-sm-12 col-md-6 col-lg-6 bg-gambarkiri" ></div>
-                    <!-- Tulisan BYCOM -->
-                    <h5 class="tulisan "><b>BY</b>COM</h5> 
+                    <h5 class="tulisan "><b>E-Computer</b> Shop</h5> 
         
                     <!-- Bagian Kanan -->
                     <div class="col-sm-12 col-md-6 col-lg-6 bagiankanan d-flex align-items-center justify-content-center">
