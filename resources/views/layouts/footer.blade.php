@@ -24,7 +24,7 @@
             </div>
             <div class="desc-area">
                 <p><a href="mailto:our.rafi@gmail.com?subject=Computer Shop">rafi@gmail.com</a></p>
-                <p><a href="http://wa.me/628993879735" target="blank">+62 899-3879-735</a></p>
+                <p><a href="http://wa.me/628123456789" target="blank">+62 812-3456-789</a></p>
             </div>
         </div>
 
