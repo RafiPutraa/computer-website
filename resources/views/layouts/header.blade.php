@@ -11,7 +11,7 @@
         <a href="{{ url('keranjang') }}" class="{{ (request()->is('keranjang*')) ? 'active' : '' }}">Keranjang</a>
         @endauth
         @endif
-        <a href="{{ url('about') }}" class="{{ (request()->is('about')) ? 'active' : '' }}">About</a>
+        <a href="{{ url('about') }}" class="{{ (request()->is('about')) ? 'active' : '' }}">Tentang Kami</a>
             <!-- <div class="d-flex justify-content-center p-4">
               <div class="searchbar">
                 <input class="search_input" type="text" name="" placeholder="Search...">
